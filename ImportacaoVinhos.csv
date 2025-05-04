@@ -1,0 +1,451 @@
+PAIS,QUANTIDADE,VALOR,ANO,CONTINENTE,COD_PAIS
+Africa do Sul,493093,1931449,2009,,
+Alemanha,56075,291876,2009,Europa,DEU
+Argentina,13902750,38521731,2009,América do Sul,ARG
+Austrália,270908,998680,2009,Oceania,AUS
+Áustria,1895,12073,2009,Europa,AUT
+Chile,22476643,61380795,2009,América do Sul,CHL
+Espanha,1119540,6224187,2009,Europa,ESP
+Estados Unidos,85393,702825,2009,América do Norte,USA
+França,2372448,16893114,2009,Europa,FRA
+Grécia,52474,190076,2009,Europa,GRC
+Hungria,12632,87626,2009,Europa,HUN
+Israel,8924,36534,2009,,
+Itália,8387908,23079424,2009,Europa,ITA
+Líbano,5310,34971,2009,,
+Nova Zelândia,30806,302244,2009,Oceania,NZL
+Portugal,5884719,23688318,2009,Europa,PRT
+Reino Unido,10236,53375,2009,Europa,GBR
+Suíça,4860,13129,2009,Europa,CHE
+Uruguai,750343,1953390,2009,América do Sul,URY
+Africa do Sul,966276,3600658,2010,,
+Alemanha,192661,784674,2010,Europa,DEU
+Argentina,16965266,52126581,2010,América do Sul,ARG
+Austrália,405271,1864846,2010,Oceania,AUS
+Áustria,2329,30075,2010,Europa,AUT
+Brasil,7,232,2010,América do Sul,BRA
+Bulgária,20997,94727,2010,Europa,BGR
+Chile,26434744,72983389,2010,América do Sul,CHL
+Espanha,1622100,8698824,2010,Europa,ESP
+Estados Unidos,194774,1344921,2010,América do Norte,USA
+França,2799118,18778566,2010,Europa,FRA
+Grécia,42449,196361,2010,Europa,GRC
+Hungria,15193,160961,2010,Europa,HUN
+Israel,15782,93252,2010,,
+Itália,11911190,28683242,2010,Europa,ITA
+Líbano,15741,123283,2010,,
+México,7004,63663,2010,América do Norte,MEX
+Nova Zelândia,102683,947043,2010,Oceania,NZL
+Peru,33,252,2010,América do Sul,PER
+Portugal,7801759,29299792,2010,Europa,PRT
+Reino Unido,621,22292,2010,Europa,GBR
+Suíça,2483,8010,2010,Europa,CHE
+Uruguai,1219387,3175051,2010,América do Sul,URY
+Africa do Sul,507509,2136394,2011,,
+Alemanha,198025,933545,2011,Europa,DEU
+Argentina,16673491,58806736,2011,América do Sul,ARG
+Austrália,824440,2811273,2011,Oceania,AUS
+Áustria,6357,56227,2011,Europa,AUT
+Brasil,93,1164,2011,América do Sul,BRA
+Bulgária,1097,2527,2011,Europa,BGR
+Canada,2322,35032,2011,,
+Chile,26642889,84952500,2011,América do Sul,CHL
+Croácia,450,12388,2011,Europa,HRV
+Eslovênia,3600,62602,2011,,
+Espanha,1999970,11175636,2011,Europa,ESP
+Estados Unidos,369806,1756901,2011,América do Norte,USA
+França,3329437,22917012,2011,Europa,FRA
+Grécia,82207,414329,2011,Europa,GRC
+Hungria,15073,256240,2011,Europa,HUN
+Israel,16382,68676,2011,,
+Itália,12025827,35481781,2011,Europa,ITA
+Líbano,17685,137954,2011,,
+Nova Zelândia,151194,1267863,2011,Oceania,NZL
+Portugal,8556375,35247223,2011,Europa,PRT
+Reino Unido,270,6021,2011,Europa,GBR
+Tunísia,16420,37492,2011,,
+Uruguai,1264306,3481552,2011,América do Sul,URY
+Africa do Sul,722327,3041449,2012,,
+Alemanha,113243,591167,2012,Europa,DEU
+Argentina,14613839,55633562,2012,América do Sul,ARG
+Austrália,615334,2474783,2012,Oceania,AUS
+Áustria,8098,85116,2012,Europa,AUT
+Brasil,1051,15016,2012,América do Sul,BRA
+Chile,30258795,93315735,2012,América do Sul,CHL
+Croácia,630,16571,2012,Europa,HRV
+Eslovênia,433,1223,2012,,
+Espanha,2540209,11724946,2012,Europa,ESP
+Estados Unidos,379329,1995929,2012,América do Norte,USA
+França,3181440,21636175,2012,Europa,FRA
+Grécia,68966,323206,2012,Europa,GRC
+Hungria,10404,168862,2012,Europa,HUN
+Israel,8439,47579,2012,,
+Itália,10506144,30750897,2012,Europa,ITA
+Líbano,5805,47826,2012,,
+Marrocos,450,3851,2012,,
+Nova Zelândia,81611,790355,2012,Oceania,NZL
+Portugal,9714940,36190898,2012,Europa,PRT
+Reino Unido,406,26466,2012,Europa,GBR
+Romênia,33750,85321,2012,,
+Tunísia,19913,42918,2012,,
+Uruguai,1323884,3735892,2012,América do Sul,URY
+Africa do Sul,475331,1985184,2013,,
+Alemanha,114866,414070,2013,Europa,DEU
+Argentina,12732815,49524694,2013,América do Sul,ARG
+Austrália,553190,1703815,2013,Oceania,AUS
+Áustria,56849,227204,2013,Europa,AUT
+Brasil,473,5747,2013,América do Sul,BRA
+Bulgária,5947,21988,2013,Europa,BGR
+Chile,28288212,90281256,2013,América do Sul,CHL
+Eslovênia,2192,25307,2013,,
+Espanha,2772104,13570874,2013,Europa,ESP
+Estados Unidos,518888,2817086,2013,América do Norte,USA
+França,3265362,23336291,2013,Europa,FRA
+Geórgia,33750,134202,2013,,
+Grécia,13241,71175,2013,Europa,GRC
+Hungria,10911,140198,2013,Europa,HUN
+Israel,24622,97645,2013,,
+Itália,8308831,30799292,2013,Europa,ITA
+Líbano,6588,75810,2013,,
+Nova Zelândia,90728,840521,2013,Oceania,NZL
+Portugal,9299080,35729522,2013,Europa,PRT
+Reino Unido,127,2789,2013,Europa,GBR
+Tunísia,8000,20892,2013,,
+Uruguai,1372329,3740613,2013,América do Sul,URY
+Africa do Sul,722715,3033932,2014,,
+Alemanha,115804,483316,2014,Europa,DEU
+Argentina,13437321,53815956,2014,América do Sul,ARG
+Austrália,236742,1008851,2014,Oceania,AUS
+Áustria,2770,32116,2014,Europa,AUT
+Brasil,449,6011,2014,América do Sul,BRA
+Bulgária,15019,46857,2014,Europa,BGR
+Canada,1530,25958,2014,,
+Chile,35479279,113375484,2014,América do Sul,CHL
+Emirados Árabes Unidos,35,1138,2014,Ásia,ARE
+Eslovênia,4190,23377,2014,,
+Espanha,2760797,12797753,2014,Europa,ESP
+Estados Unidos,788773,4171731,2014,América do Norte,USA
+França,3592782,27480375,2014,Europa,FRA
+Grécia,24244,107195,2014,Europa,GRC
+Hungria,18733,114610,2014,Europa,HUN
+Israel,7734,40372,2014,,
+Itália,8566756,31697736,2014,Europa,ITA
+Líbano,47610,270145,2014,,
+Macedônia,252,497,2014,,
+Nova Zelândia,106251,843533,2014,Oceania,NZL
+Peru,3201,7906,2014,América do Sul,PER
+Portugal,9735153,37071142,2014,Europa,PRT
+Reino Unido,315,9410,2014,Europa,GBR
+Romênia,4163,5629,2014,,
+Uruguai,1237537,3782282,2014,América do Sul,URY
+Africa do Sul,743335,2996543,2015,,
+Alemanha,95171,358275,2015,Europa,DEU
+Argentina,12465041,48043201,2015,América do Sul,ARG
+Austrália,395030,1261810,2015,Oceania,AUS
+Áustria,360,3891,2015,Europa,AUT
+Brasil,1359,12919,2015,América do Sul,BRA
+Bulgária,17244,51678,2015,Europa,BGR
+Chile,36686870,107684380,2015,América do Sul,CHL
+Croácia,2069,3779,2015,Europa,HRV
+Emirados Árabes Unidos,529,10093,2015,Ásia,ARE
+Eslovênia,4640,24190,2015,,
+Espanha,3024533,11396855,2015,Europa,ESP
+Estados Unidos,775131,3848755,2015,América do Norte,USA
+França,3617130,19353291,2015,Europa,FRA
+Grécia,55680,190185,2015,Europa,GRC
+Hungria,5117,74688,2015,Europa,HUN
+Israel,19028,55248,2015,,
+Itália,8261383,25846195,2015,Europa,ITA
+Líbano,6480,56196,2015,,
+Marrocos,1755,15082,2015,,
+Nova Zelândia,117340,950751,2015,Oceania,NZL
+Portugal,9952290,32547365,2015,Europa,PRT
+Reino Unido,90,1352,2015,Europa,GBR
+Romênia,5950,7925,2015,,
+Suíça,1125,6284,2015,Europa,CHE
+Turquia,32247,109741,2015,Ásia,TUR
+Uruguai,1399547,4069100,2015,América do Sul,URY
+Africa do Sul,578829,1686226,2016,,
+Alemanha,158386,606333,2016,Europa,DEU
+Argélia,0,43,2016,,
+Arábia Saudita,0,43,2016,Ásia,SAU
+Argentina,14098009,45214862,2016,América do Sul,ARG
+Austrália,498515,1537834,2016,Oceania,AUS
+Áustria,1485,7551,2016,Europa,AUT
+Bélgica,7,1090,2016,Europa,BEL
+Brasil,183,2127,2016,América do Sul,BRA
+Bulgária,17777,55253,2016,Europa,BGR
+Chile,43400991,123183079,2016,América do Sul,CHL
+China,108,213,2016,Ásia,CHN
+Emirados Árabes Unidos,2175,35489,2016,Ásia,ARE
+Eslovênia,14366,46972,2016,,
+Eslováquia,1305,3878,2016,Europa,SVK
+Espanha,3948614,12221512,2016,Europa,ESP
+Estados Unidos,725420,2924715,2016,América do Norte,USA
+França,3831566,15940341,2016,Europa,FRA
+Grécia,6568,18637,2016,Europa,GRC
+Hungria,8315,58756,2016,Europa,HUN
+Indonésia,0,43,2016,Ásia,IDN
+Irlanda,0,43,2016,Europa,IRL
+Israel,12548,44277,2016,,
+Itália,7936409,22216811,2016,Europa,ITA
+Líbano,10665,71374,2016,,
+Luxemburgo,0,43,2016,Europa,LUX
+Noruega,396,253,2016,Europa,NOR
+Nova Zelândia,50177,361030,2016,Oceania,NZL
+Países Baixos (Holanda),0,43,2016,,
+Portugal,10821232,29495190,2016,Europa,PRT
+Reino Unido,5,255,2016,Europa,GBR
+Republica Dominicana,0,43,2016,,
+Rússia,0,43,2016,Europa,RUS
+Suíça,6,245,2016,Europa,CHE
+Ucrânia,5319,9679,2016,,
+Uruguai,2215692,5099162,2016,América do Sul,URY
+Africa do Sul,1138732,3241298,2017,,
+Alemanha,83289,315959,2017,Europa,DEU
+Argentina,15461740,51770842,2017,América do Sul,ARG
+Austrália,354641,1246545,2017,Oceania,AUS
+Áustria,2655,24629,2017,Europa,AUT
+Bélgica,4376,45221,2017,Europa,BEL
+Brasil,845617,260135,2017,América do Sul,BRA
+Bulgária,35284,68234,2017,Europa,BGR
+Chile,51787643,145628860,2017,América do Sul,CHL
+China,1000,613,2017,Ásia,CHN
+Eslováquia,21424,64828,2017,Europa,SVK
+Espanha,7240535,19834451,2017,Europa,ESP
+Estados Unidos,1372347,4110641,2017,América do Norte,USA
+França,5921728,25280255,2017,Europa,FRA
+Grécia,40775,139486,2017,Europa,GRC
+Hungria,23813,168353,2017,Europa,HUN
+Israel,37302,120463,2017,,
+Itália,11538990,33707111,2017,Europa,ITA
+Líbano,12737,93480,2017,,
+Noruega,5,27,2017,Europa,NOR
+Nova Zelândia,31379,248412,2017,Oceania,NZL
+Portugal,17345709,45032247,2017,Europa,PRT
+Reino Unido,16,1033,2017,Europa,GBR
+Romênia,18509,52150,2017,,
+Síria,398,269,2017,,
+Suíça,138,2873,2017,Europa,CHE
+Ucrânia,865,931,2017,,
+Uruguai,5009098,7751966,2017,América do Sul,URY
+Africa do Sul,1127053,3574371,2018,,
+Alemanha,142971,516975,2018,Europa,DEU
+Arábia Saudita,563,3249,2018,Ásia,SAU
+Argentina,15221318,52817642,2018,América do Sul,ARG
+Austrália,3518,21664,2018,Oceania,AUS
+Áustria,513995,1567866,2018,Europa,AUT
+Bélgica,163,1201,2018,Europa,BEL
+Brasil,18040,121806,2018,América do Sul,BRA
+Bulgária,16166,17550,2018,Europa,BGR
+Canada,301,17418,2018,,
+Chile,51104825,144731210,2018,América do Sul,CHL
+China,5,472,2018,Ásia,CHN
+Eslovênia,20976,68521,2018,,
+Eslováquia,10800,17938,2018,Europa,SVK
+Espanha,5595268,19353631,2018,Europa,ESP
+Estados Unidos,548655,2584781,2018,América do Norte,USA
+França,4653789,22688105,2018,Europa,FRA
+Geórgia,8164,20416,2018,,
+Grécia,41601,135185,2018,Europa,GRC
+Hungria,23742,113405,2018,Europa,HUN
+Indonésia,36,210,2018,Ásia,IDN
+Irlanda,107,954,2018,Europa,IRL
+Israel,40354,182017,2018,,
+Itália,10154564,34857594,2018,Europa,ITA
+Líbano,19742,150044,2018,,
+Luxemburgo,5,42,2018,Europa,LUX
+México,134,804,2018,América do Norte,MEX
+Nova Zelândia,130854,686193,2018,Oceania,NZL
+Países Baixos (Holanda),283,8719,2018,,
+Peru,77,653,2018,América do Sul,PER
+Porto Rico,47,404,2018,,
+Portugal,17698831,53237413,2018,Europa,PRT
+Reino Unido,4126,51034,2018,Europa,GBR
+Republica Dominicana,2,13,2018,,
+Romênia,13719,9695,2018,,
+Rússia,17483,66160,2018,Europa,RUS
+Suíça,559,7647,2018,Europa,CHE
+Turquia,1591,1245,2018,Ásia,TUR
+Uruguai,2836574,8467846,2018,América do Sul,URY
+Africa do Sul,1092042,3604038,2019,,
+Alemanha,101055,412794,2019,Europa,DEU
+Argentina,16548931,54527380,2019,América do Sul,ARG
+Austrália,16292,1214643,2019,Oceania,AUS
+Áustria,348289,128379,2019,Europa,AUT
+Bélgica,7,30,2019,Europa,BEL
+Brasil,29295,246008,2019,América do Sul,BRA
+Bulgária,10944,9915,2019,Europa,BGR
+Chile,52697108,145471294,2019,América do Sul,CHL
+China,317,2458,2019,Ásia,CHN
+Croácia,450,2900,2019,Europa,HRV
+Eslovênia,30968,101190,2019,,
+Eslováquia,459,3160,2019,Europa,SVK
+Espanha,5797980,17111436,2019,Europa,ESP
+Estados Unidos,534870,2400830,2019,América do Norte,USA
+França,5324383,24299524,2019,Europa,FRA
+Geórgia,21748,41161,2019,,
+Grécia,21251,70881,2019,Europa,GRC
+Hungria,34591,146500,2019,Europa,HUN
+Indonésia,258,1464,2019,Ásia,IDN
+Irlanda,179,1705,2019,Europa,IRL
+Israel,52237,182602,2019,,
+Itália,10323254,33355982,2019,Europa,ITA
+Japão,153,1429,2019,Ásia,JPN
+Líbano,21836,167358,2019,,
+Macedônia,1323,874,2019,,
+Marrocos,2250,16816,2019,,
+México,646,3927,2019,América do Norte,MEX
+Montenegro,1701,5440,2019,Europa,MNE
+Nova Zelândia,133179,776830,2019,Oceania,NZL
+Países Baixos (Holanda),634,5297,2019,,
+Panamá,17,96,2019,América Central,PAN
+Porto Rico,21,115,2019,,
+Portugal,18228699,51444189,2019,Europa,PRT
+Reino Unido,4819,46623,2019,Europa,GBR
+Romênia,5196,6706,2019,,
+Síria,641,409,2019,,
+Suíça,4510,63619,2019,Europa,CHE
+Ucrânia,4646,3074,2019,,
+Uruguai,2778244,7938059,2019,América do Sul,URY
+Africa do Sul,627150,1701072,2020,,
+Alemanha,136992,504168,2020,Europa,DEU
+Argentina,22610267,66322932,2020,América do Sul,ARG
+Austrália,212595,792051,2020,Oceania,AUS
+Áustria,6540,52348,2020,Europa,AUT
+Bósnia e Herzegovina,1218,902,2020,Europa,BIH
+Brasil,4347,41213,2020,América do Sul,BRA
+Bulgária,23110,58319,2020,Europa,BGR
+Chile,72726186,176540499,2020,América do Sul,CHL
+Eslovênia,11392,39771,2020,,
+Espanha,7169384,19802061,2020,Europa,ESP
+Estados Unidos,366584,2119234,2020,América do Norte,USA
+França,5658139,24894394,2020,Europa,FRA
+Geórgia,20274,42948,2020,,
+Grécia,61181,219292,2020,Europa,GRC
+Hong Kong,311,2776,2020,Ásia,HKG
+Hungria,5254,25250,2020,Europa,HUN
+Israel,38239,224349,2020,,
+Itália,9659999,32477890,2020,Europa,ITA
+Líbano,12384,45908,2020,,
+Marrocos,2160,8326,2020,,
+México,33,181,2020,América do Norte,MEX
+Moldávia,5832,8965,2020,,
+Nova Zelândia,15372,89763,2020,Oceania,NZL
+Países Baixos (Holanda),2285,22990,2020,,
+Porto Rico,54,1090,2020,,
+Portugal,23627260,66353572,2020,Europa,PRT
+Reino Unido,2586,22935,2020,Europa,GBR
+Romênia,30635,70269,2020,,
+Suíça,735,5848,2020,Europa,CHE
+Turquia,17563,55039,2020,Ásia,TUR
+Uruguai,4079076,10146829,2020,América do Sul,URY
+Africa do Sul,859169,2508140,2021,,
+Alemanha,106541,546967,2021,Europa,DEU
+Arábia Saudita,2510,8761,2021,Ásia,SAU
+Argentina,26869241,79527959,2021,América do Sul,ARG
+Austrália,366875,1383093,2021,Oceania,AUS
+Áustria,13427,141822,2021,Europa,AUT
+Bermudas,10,141,2021,América do Norte,BMU
+Brasil,12602,39816,2021,América do Sul,BRA
+Bulgária,34185,105623,2021,Europa,BGR
+Chile,69617587,182568098,2021,América do Sul,CHL
+Croácia,17343,78954,2021,Europa,HRV
+Eslovênia,42944,172141,2021,,
+Espanha,8793911,23795616,2021,Europa,ESP
+Estados Unidos,506405,2809649,2021,América do Norte,USA
+França,6241310,31428188,2021,Europa,FRA
+Geórgia,19188,32901,2021,,
+"Geórgia do Sul e Sandwich do Sul, Ilhas",1838,2915,2021,,
+Grécia,13619,55228,2021,Europa,GRC
+Hungria,20174,160816,2021,Europa,HUN
+Israel,60281,298732,2021,,
+Itália,11231625,39852162,2021,Europa,ITA
+Líbano,24194,78872,2021,,
+Marrocos,986,6958,2021,,
+México,4,19,2021,América do Norte,MEX
+Moldávia,25998,66480,2021,,
+Nova Zelândia,21995,137547,2021,Oceania,NZL
+Portugal,25925363,75668823,2021,Europa,PRT
+Reino Unido,1164,9357,2021,Europa,GBR
+Romênia,33770,99562,2021,,
+Rússia,32179,64905,2021,Europa,RUS
+San Marino,1095,2237,2021,,
+Sérvia,3471,8302,2021,,
+Síria,484,1280,2021,,
+Suíça,7,157,2021,Europa,CHE
+República Tcheca,225,5528,2021,Europa,CZE
+Uruguai,3788831,10063341,2021,América do Sul,URY
+Africa do Sul,738116,2266827,2022,,
+Alemanha,92600,438595,2022,Europa,DEU
+Argentina,27980574,87519642,2022,América do Sul,ARG
+Armênia,2385,13668,2022,,
+Austrália,579279,1590059,2022,Oceania,AUS
+Áustria,7403,53974,2022,Europa,AUT
+Bermudas,1,4,2022,América do Norte,BMU
+Brasil,1,5,2022,América do Sul,BRA
+Bulgária,29929,43221,2022,Europa,BGR
+Canada,884,11607,2022,,
+Chile,68881232,184335335,2022,América do Sul,CHL
+Croácia,887,35563,2022,Europa,HRV
+Eslovênia,31509,127726,2022,,
+Espanha,6487047,17187749,2022,Europa,ESP
+Estados Unidos,393211,3023220,2022,América do Norte,USA
+França,4911903,25955232,2022,Europa,FRA
+Geórgia,12506,26983,2022,,
+"Geórgia do Sul e Sandwich do Sul, Ilhas",1788,2797,2022,,
+Grécia,45440,148515,2022,Europa,GRC
+Hungria,29260,160168,2022,Europa,HUN
+Israel,19589,82489,2022,,
+Itália,9622119,33330465,2022,Europa,ITA
+Líbano,30149,182548,2022,,
+Marrocos,13932,46497,2022,,
+Moldávia,38336,70282,2022,,
+Nova Zelândia,52265,403597,2022,Oceania,NZL
+Peru,17861,84084,2022,América do Sul,PER
+Portugal,24108787,64795326,2022,Europa,PRT
+Reino Unido,1655,19595,2022,Europa,GBR
+Romênia,47715,99616,2022,,
+Síria,1094,5187,2022,,
+República Tcheca,4950,12044,2022,Europa,CZE
+Turquia,22087,38817,2022,Ásia,TUR
+Uruguai,3394161,9867675,2022,América do Sul,URY
+Africa do Sul,522733,1732850,2023,,
+Alemanha,102456,557947,2023,Europa,DEU
+Arábia Saudita,8,161,2023,Ásia,SAU
+Argentina,25276991,83918138,2023,América do Sul,ARG
+Armênia,3542,24336,2023,,
+Austrália,432829,1568550,2023,Oceania,AUS
+Áustria,16832,145475,2023,Europa,AUT
+Bermudas,6,879,2023,América do Norte,BMU
+Bolívia,1170,10920,2023,América do Sul,BOL
+Brasil,6229,76894,2023,América do Sul,BRA
+Bulgária,40281,95232,2023,Europa,BGR
+Canada,14,1062,2023,,
+Chile,62358765,170146247,2023,América do Sul,CHL
+Croácia,1107,9160,2023,Europa,HRV
+Cuba,8,261,2023,América Central,CUB
+Eslovênia,28806,124283,2023,,
+Espanha,6591628,20097228,2023,Europa,ESP
+Estados Unidos,244276,1775713,2023,América do Norte,USA
+França,4899631,30421272,2023,Europa,FRA
+Geórgia,17173,29084,2023,,
+Grécia,45889,147724,2023,Europa,GRC
+Hungria,41905,316481,2023,Europa,HUN
+Israel,48772,259405,2023,,
+Itália,8868133,34760596,2023,Europa,ITA
+Japão,86,3427,2023,Ásia,JPN
+Líbano,14328,106610,2023,,
+Macedônia,8522,17172,2023,,
+Marrocos,603,2349,2023,,
+Moldávia,51189,138741,2023,,
+Nova Zelândia,28665,254138,2023,Oceania,NZL
+Países Baixos (Holanda),9,354,2023,,
+Peru,12276,58862,2023,América do Sul,PER
+Porto Rico,2021,4481,2023,,
+Portugal,25099409,71970948,2023,Europa,PRT
+Reino Unido,1808,32757,2023,Europa,GBR
+Romênia,36775,98835,2023,,
+Essuatíni,320,6968,2023,África,SWZ
+Suíça,2109,101111,2023,Europa,CHE
+Uruguai,2905567,9276001,2023,América do Sul,URY
